@@ -1,0 +1,35 @@
+[
+    {
+        "model": "laboratorio.producto",
+        "pk": 1,
+        "fields": {
+            "nombre": "Producto A",
+            "laboratorio": 1,
+            "f_fabricacion": "2022-03-01",
+            "p_costo": "50.00",
+            "p_venta": "75.00"
+        }
+    },
+    {
+        "model": "laboratorio.producto",
+        "pk": 2,
+        "fields": {
+            "nombre": "Producto B",
+            "laboratorio": 2,
+            "f_fabricacion": "2023-06-15",
+            "p_costo": "120.00",
+            "p_venta": "150.00"
+        }
+    },
+    {
+        "model": "laboratorio.producto",
+        "pk": 3,
+        "fields": {
+            "nombre": "Producto C",
+            "laboratorio": 3,
+            "f_fabricacion": "2021-11-20",
+            "p_costo": "200.00",
+            "p_venta": "275.00"
+        }
+    }
+]

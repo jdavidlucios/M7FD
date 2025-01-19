@@ -1,0 +1,23 @@
+[
+    {
+        "model": "laboratorio.laboratorio",
+        "pk": 1,
+        "fields": {
+            "nombre": "Laboratorio1"
+        }
+    },
+    {
+        "model": "laboratorio.laboratorio",
+        "pk": 2,
+        "fields": {
+            "nombre": "Laboratorio2"
+        }
+    },
+    {
+        "model": "laboratorio.laboratorio",
+        "pk": 3,
+        "fields": {
+            "nombre": "Laboratorio3"
+        }
+    }
+]

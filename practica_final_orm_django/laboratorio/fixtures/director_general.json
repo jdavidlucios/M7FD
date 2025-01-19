@@ -1,0 +1,26 @@
+[
+    {
+        "model": "laboratorio.directorgeneral",
+        "pk": 1,
+        "fields": {
+            "nombre": "Ana Martínez",
+            "laboratorio": 1
+        }
+    },
+    {
+        "model": "laboratorio.directorgeneral",
+        "pk": 2,
+        "fields": {
+            "nombre": "Carlos García",
+            "laboratorio": 2
+        }
+    },
+    {
+        "model": "laboratorio.directorgeneral",
+        "pk": 3,
+        "fields": {
+            "nombre": "Lucía Fernández",
+            "laboratorio": 3
+        }
+    }
+]
